@@ -124,3 +124,4 @@ public class scientificCalculator {
     }
 
 }
+// getting to know aroung here how it works and all
